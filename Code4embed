@@ -13,11 +13,11 @@
         </div>
         <script>
             EJS_player = "#game";
-            EJS_core = "snes";
-            EJS_gameName = "Secret of Mana";
+            EJS_core = "n64";
+            EJS_gameName = "Paper Mario";
             EJS_color = "#0097c4";
             EJS_pathtodata = "https://cdn.emulatorjs.org/latest/data/";
-            EJS_gameUrl = "https://allancoding-website-files.on.drv.tw/files/ROMS/Secret of Mana.zip";
+            EJS_gameUrl = "https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip";
         </script>
         <script src="https://cdn.emulatorjs.org/latest/data/loader.js"></script>
     </body>
